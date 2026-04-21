@@ -18,7 +18,7 @@ export default defineConfig({
     logo: '/logo.svg',
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/anthropics/claude-code' },
+      { icon: 'github', link: 'https://github.com/Sixsevenl/claudecn' },
     ],
 
     search: {
@@ -51,7 +51,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/anthropics/claude-code/edit/main/docs/:path',
+      pattern: 'https://github.com/Sixsevenl/claudecn/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
   },

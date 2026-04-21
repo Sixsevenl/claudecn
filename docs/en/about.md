@@ -26,4 +26,4 @@ All developers interested in Claude AI are welcome to contribute! You can partic
 
 ## Contact
 
-- GitHub: [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- GitHub: [Sixsevenl/claudecn](https://github.com/Sixsevenl/claudecn)
