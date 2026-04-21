@@ -9,3 +9,4 @@ hero:
 
 <HomeHero />
 <HomeFeatures />
+<HomeSponsor />

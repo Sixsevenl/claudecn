@@ -30,7 +30,7 @@ export const zhNav: DefaultTheme.NavItem[] = [
       { text: 'AgentShield 安全', link: '/docs/ecc/agentshield' },
     ],
   },
-  { text: '博客', link: '/blog/' },
+  { text: '博客', link: 'https://sixsevenl.github.io' },
   { text: '快速入门', link: '/docs/quickstarts' },
   { text: '关于', link: '/about' },
 ]
@@ -52,7 +52,7 @@ export const enNav: DefaultTheme.NavItem[] = [
     ],
   },
   { text: 'Agent Skills', link: '/en/docs/agent-skills/' },
-  { text: 'Blog', link: '/en/blog/' },
+  { text: 'Blog', link: 'https://sixsevenl.github.io' },
   { text: 'Quickstarts', link: '/en/docs/quickstarts' },
   { text: 'About', link: '/en/about' },
 ]

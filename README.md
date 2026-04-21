@@ -133,6 +133,10 @@ vercel
 
 在 `.github/workflows/deploy.yml` 中配置 GitHub Actions。
 
+## 赞助商
+
+- [Claude API 中转站](http://newclaudeapi.icu) — Claude API 中转服务赞助
+
 ## 许可证
 
 MIT License
